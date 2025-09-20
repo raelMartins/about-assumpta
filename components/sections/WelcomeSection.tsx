@@ -5,7 +5,7 @@ const WelcomeSection = () => {
   return (
     <section className={styles.welcomeSection}>
       <h3>Hi, my name is</h3>
-      <h1>Martins Akeredolu.</h1>
+      <h1>Assumpta Obasi.</h1>
       <h2>I build things for the web.</h2>
       <p>
         I&apos;m a software engineer specializing in building (and occasionally

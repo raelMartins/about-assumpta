@@ -87,10 +87,10 @@ const AboutMe = () => {
               height={300}
             /> */}
             <Image
-              src='/my-image.jpeg'
+              src='/assumpta.jpg'
               alt='My Image'
               width={300}
-              height={300}
+              height={410}
               style={{ objectFit: 'cover' }}
             />
           </div>

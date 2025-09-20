@@ -66,18 +66,11 @@ const Footer = () => {
       </div>
       <div className={styles.footerBottom}>
         <a
-          href='https://brittanychiang.com/'
+          href='https://github.com/raelMartins/about-assumpta'
           rel='noopener noreferrer'
           target='_blank'
         >
-          <div>Designed by Brittany Chiang</div>
-        </a>
-        <a
-          href='https://github.com/raelMartins/new-portfolio'
-          rel='noopener noreferrer'
-          target='_blank'
-        >
-          <div className={styles.githubStats}>Built by Me :)</div>
+          <div>Designed and Developed by Martins</div>
         </a>
       </div>
     </footer>
