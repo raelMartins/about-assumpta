@@ -83,7 +83,7 @@ const Navbar = () => {
                 </g>
               </svg>
               <Link href='/'>
-                <h1>M</h1>
+                <h1>A</h1>
               </Link>
             </div>
           </div>

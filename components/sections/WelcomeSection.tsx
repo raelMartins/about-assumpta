@@ -6,13 +6,14 @@ const WelcomeSection = () => {
     <section className={styles.welcomeSection}>
       <h3>Hi, my name is</h3>
       <h1>Assumpta Obasi.</h1>
-      <h2>I build things for the web.</h2>
+      <h2>I ensure your favourite products work as they should.</h2>
       <p>
-        I&apos;m a software engineer specializing in building (and occasionally
-        designing) exceptional digital experiences. Currently, I&apos;m focused
-        on building a cloud based infrastructure of interconnected apps and
-        services intended to revolutionize the world of real estate at{' '}
-        <a href='https://www.myxellia.io/'>Myxellia</a>.
+        I&apos;m a Product Manager, meaning I am in charge of developing and
+        managing the life cycle of a product, usually from conception till
+        completion, through market research, prioritization, product development
+        and execution. The goal is always to deliver a product that not only
+        meets user needs but also achieves company set objectives and creates
+        value wherever I work.
       </p>
       <Link className={styles.viewMyProjects} href='/#projects'>
         Check out my projects!

@@ -12,9 +12,13 @@ const IconSVG = () => {
       />
       <polyline
         className={styles.myEm}
-        points='37,72 37,42 39,42 47,57 48,57 49,57 57,42 59,42 59,72'
-        // points='37,72 37,42 48,57 59,42 59,72'
-        // strokeLinejoin='round'
+        points='32,72 48,38 64,72'
+        strokeWidth={`4`}
+      />
+      <polyline
+        className={styles.myEm}
+        points='36,60 48,65 60,60'
+        strokeWidth={`4`}
       />
     </svg>
   );

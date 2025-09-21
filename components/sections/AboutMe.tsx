@@ -8,12 +8,12 @@ const AboutMe = () => {
       <div className={styles.inner}>
         <div className={styles.text}>
           <p>
-            Hey there! My name is Martins and I enjoy creating things that live
-            on the internet. I wrote my first line of code way back in primary
-            or elementary school with QBASIC. Then many many years later, in
-            2016, i built my first Wordpress website and I was hooked. I&apos;d
-            always loved tech and the concept of having an idea, and being able
-            to convert it into an actual working thing by writing a few lines of
+            Hi Hi! My name is Assumpta and I enjoy creating things that live on
+            the internet. I wrote my first line of code way back in primary or
+            elementary school with QBASIC. Then many many years later, in 2016,
+            i built my first Wordpress website and I was hooked. I&apos;d always
+            loved tech and the concept of having an idea, and being able to
+            convert it into an actual working thing by writing a few lines of
             code really blew my mind.
           </p>
           <p>
