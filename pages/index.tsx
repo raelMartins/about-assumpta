@@ -59,35 +59,35 @@ export default function Home({ projects }: { projects: Project[] }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Martins Akeredolu - Portfolio</title>
+        <title>Assumpta Obasi - Portfolio</title>
         <meta
           name='description'
-          content='Hey there, welcome to my personal website,Check out some of my projects, or contact me if you have any questions for me!'
+          content='Hey there, My name is Assumpta, and welcome to my personal website, Check out some of the things I have worked on, or contact me if you have any questions for me!'
         />
         <link rel='icon' href='/assumpta-circle.png' />
 
         {/* Open Graph Meta Tags */}
-        <meta property='og:title' content='Martins Akeredolu - Portfolio' />
+        <meta property='og:title' content='Assumpta Obasi - Portfolio' />
         <meta property='og:type' content='article' />
         <meta
           property='og:description'
-          content='Hey there, welcome to my personal website,Check out some of my projects, or contact me if you have any questions for me!'
+          content='Hey there, My name is Assumpta, and welcome to my personal website, Check out some of the things I have worked on, or contact me if you have any questions for me!'
         />
         <meta property='og:image' content='/assumpta-circle.png' />
-        <meta property='og:site_name' content='Martins Akeredolu - Portfolio' />
+        <meta property='og:site_name' content='Assumpta Obasi - Portfolio' />
 
         {/* Twitter  */}
-        <meta name='twitter:title' content='Martins Akeredolu - Portfolio' />
+        <meta name='twitter:title' content='Assumpta Obasi - Portfolio' />
         <meta
           name='twitter:description'
-          content='Hey there, welcome to my personal website,Check out some of my projects, or contact me if you have any questions for me!'
+          content='Hey there, My name is Assumpta, and welcome to my personal website, Check out some of the things I have worked on, or contact me if you have any questions for me!'
         />
         <meta name='twitter:image' content='/assumpta-circle.png' />
         <meta name='twitter:card' content='summary' />
-        <meta name='twitter:site' content='@_raelmartins' />
+        <meta name='twitter:site' content='@ValerieOgechi' />
         <meta
           name='twitter:image:alt'
-          content='Hey there, welcome to my personal website,Check out some of my projects, or contact me if you have any questions for me!'
+          content='Hey there, My name is Assumpta, and welcome to my personal website, Check out some of the things I have worked on, or contact me if you have any questions for me!'
         />
       </Head>
 
