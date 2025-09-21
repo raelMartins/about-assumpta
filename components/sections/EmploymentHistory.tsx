@@ -122,7 +122,7 @@ const EmploymentHistory = () => {
             title='Associate Product Manager'
             company='Daba'
             timePeriod='Feb 2025 - May 2025'
-            url='https://daba.com/'
+            url='https://www.daba.school/'
           />
           <EmploymentDetails
             tasks={[
@@ -144,7 +144,7 @@ const EmploymentHistory = () => {
             title='Scrum Master'
             company='CWITO'
             timePeriod='Feb 2025 - May 2025'
-            url='https://cwito.org/'
+            url='https://cwito.com/'
           />
         </div>
       </div>

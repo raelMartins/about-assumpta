@@ -9,7 +9,7 @@ const MoreProjects = ({ projects }: { projects: Project[] }) => {
 
   const list = !showAll ? projects.slice(0, 6) : projects;
 
-  return (
+  return !projects?.length ? null : (
     <section className={styles.moreProjects}>
       <div className={styles.header}>
         <h2>Other Noteworthy Projects</h2>

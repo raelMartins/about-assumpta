@@ -12,14 +12,14 @@ const ImageProjectCard = ({ project }: { project: Project }) => {
         <div className={styles.imageContainer}>
           <a href={project.url} rel='noopener noreferrer' target='_blank'>
             <Image
-              src={`/project-media/${project.image}.png`}
+              src={project.image}
               alt={project.name}
               fill
-              style={{ objectFit: 'contain' }}
+              style={{ objectFit: 'cover' }}
               className={styles.tablet_image}
             />
             <Image
-              src={`/project-media/${project.image}.png`}
+              src={project.image}
               alt={project.name}
               fill
               style={{ objectFit: 'cover' }}
