@@ -3,8 +3,10 @@ import {
   FiInstagram,
   FiTwitter,
   FiLinkedin,
-  FiCodepen
+  FiCodepen,
+  FiPhoneCall
 } from 'react-icons/fi';
+import { FaWhatsapp } from 'react-icons/fa';
 import styles from '../styles/fixedsociallinks.module.scss';
 
 const FixedSocialLinks = () => {
@@ -13,17 +15,17 @@ const FixedSocialLinks = () => {
       <ul>
         <li>
           <a
-            href='https://github.com/raelMartins'
-            aria-label='GitHub'
+            href='tel:2348038964249'
+            aria-label='Phone'
             target='_blank'
             rel='noreferrer'
           >
-            <FiGithub />
+            <FiPhoneCall />
           </a>
         </li>
         <li>
           <a
-            href='https://www.instagram.com/_raelmartins_/'
+            href='https://www.instagram.com/ms.lerie/'
             aria-label='Instagram'
             target='_blank'
             rel='noreferrer'
@@ -33,7 +35,7 @@ const FixedSocialLinks = () => {
         </li>
         <li>
           <a
-            href='https://twitter.com/_raelmartins'
+            href='https://x.com/ValerieOgechi'
             aria-label='Twitter'
             target='_blank'
             rel='noreferrer'
@@ -43,7 +45,7 @@ const FixedSocialLinks = () => {
         </li>
         <li>
           <a
-            href='https://www.linkedin.com/in/martins-akeredolu/'
+            href='https://www.linkedin.com/in/assumpta-obasi'
             aria-label='Linkedin'
             target='_blank'
             rel='noreferrer'
@@ -53,12 +55,12 @@ const FixedSocialLinks = () => {
         </li>
         <li>
           <a
-            href='https://github.com/raelMartins'
+            href="https://wa.me/2348038964249?text=Hi Assumpta, I'd love to chat"
             aria-label='Codepen'
             target='_blank'
             rel='noreferrer'
           >
-            <FiCodepen />
+            <FaWhatsapp />
           </a>
         </li>
       </ul>

@@ -61,7 +61,7 @@ const ImageProjectCard = ({ project }: { project: Project }) => {
 const Projects = ({ projects }: { projects: Project[] }) => {
   return (
     <section className={styles.projectsSection} id='projects'>
-      <h1>Some Things I’ve Built</h1>
+      <h1>Some Things I’ve Worked On</h1>
       <ul className={styles.projectList}>
         {projects
           .slice(0, 4)

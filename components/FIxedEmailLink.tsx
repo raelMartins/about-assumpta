@@ -4,9 +4,7 @@ const FixedEmailLink = () => {
   return (
     <div className={styles.verticalContainer}>
       <div className={styles.emailWrapper}>
-        <a href='mailto:olamideakeredolu@gmail.com'>
-          olamideakeredolu@gmail.com
-        </a>
+        <a href='mailto:valerieogechi@gmail.com'>valerieogechi@gmail.com</a>
       </div>
     </div>
   );

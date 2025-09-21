@@ -16,7 +16,7 @@ const WelcomeSection = () => {
         value wherever I work.
       </p>
       <Link className={styles.viewMyProjects} href='/#projects'>
-        Check out my projects!
+        Check out what I&apos;ve worked on!
       </Link>
     </section>
   );

@@ -13,7 +13,7 @@ const ContactMe = () => {
       </p>
       <a
         className='emailLink'
-        href='mailto:olamideakeredolu@gmail.com'
+        href='mailto:valerieogechi@gmail.com'
         rel='noopener noreferrer'
         target='_blank'
       >

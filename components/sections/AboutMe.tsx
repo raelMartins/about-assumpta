@@ -7,75 +7,44 @@ const AboutMe = () => {
       <h1>About Me</h1>
       <div className={styles.inner}>
         <div className={styles.text}>
+          <p>Hi, I’m Assumpta 👋</p>
           <p>
-            Hi Hi! My name is Assumpta and I enjoy creating things that live on
-            the internet. I wrote my first line of code way back in primary or
-            elementary school with QBASIC. Then many many years later, in 2016,
-            i built my first Wordpress website and I was hooked. I&apos;d always
-            loved tech and the concept of having an idea, and being able to
-            convert it into an actual working thing by writing a few lines of
-            code really blew my mind.
+            I’m a Product Manager who loves turning ideas into real solutions
+            that make life easier for people. My role is all about connecting
+            the dots between users, design, and technology. I spend my time
+            understanding what people need, working with designers to shape
+            great experiences, and collaborating with engineers to bring
+            products to life.
           </p>
           <p>
-            Fast-forward to today, and I’ve had the privilege of building{' '}
-            <a
-              href='https://app.gidirealestateinvestment.com/'
-              target='_blank'
-              rel='noreferrer'
-            >
-              multiple online property development stores
-            </a>
-            ,{' '}
-            <a
-              href='https://classytouchlaundry-web.vercel.app/'
-              target='_blank'
-              rel='noreferrer'
-            >
-              a laundry service platform
-            </a>
-            ,{' '}
-            <a href='https://betrelate.com' target='_blank' rel='noreferrer'>
-              a social media platform
-            </a>
-            ,
-            <a href='https://iberrands.com' target='_blank' rel='noreferrer'>
-              a logistics delivery website
-            </a>{' '}
-            and more . My main focus these days is building a cloud based
-            infrastructure of interconnected apps and services intended to
-            revolutionize the world of real estate at{' '}
-            <a href='https://www.myxellia.io/' target='_blank' rel='noreferrer'>
-              Myxellia
-            </a>{' '}
+            At the heart of it, I make sure that the products I work on are
+            useful, easy to use, and aligned with both user needs and business
+            goals. Think of me as the bridge that brings together big ideas and
+            the practical steps to make them happen.
           </p>
           <p>
-            I have also recently been looking into getting started with{' '}
-            <a
-              href='https://medium.com/@olamideakeredolu'
-              target='_blank'
-              rel='noreferrer'
-            >
-              technical writing
-            </a>{' '}
-            on topics I am currently learning. More on that in the near future
-            (hopefully :{')'} ).
+            Here are a few skills I am proud to havee honed over the course of
+            my career:
           </p>
-          <p>Here are a few technologies I’ve been working with recently:</p>
           <ul>
-            <li>JavaScript (ES6+)</li>
-            <li>TypeScript</li>
-            <li>React</li>
-            <li>Vue</li>
-            <li>NextJS</li>
-            <li>NuxtJS</li>
-            <li>Node.js</li>
-            <li>React Native</li>
+            <li>Product development</li>
+            <li>Agile methodologies</li>
+            <li>Empathy and Tenacity</li>
+            <li>Problem solving and Analysis</li>
+            <li>Creativity and Organizational skills</li>
+            <li>Customer focus/Relations</li>
+            <li>Competitive analysis</li>
+            <li>Team collaboration</li>
+            <li>Scrum</li>
+            <li>Product roadmapping</li>
+            <li>Market research</li>
+            <li>Product strategies</li>
           </ul>
         </div>
         <div className={styles.image}>
           <div className={styles.imageWrapper}>
             {/* <Image
-              src='/mybitmoji.png'
+              src='/assumpta-circle.png'
               alt='My Image'
               width={300}
               height={300}
