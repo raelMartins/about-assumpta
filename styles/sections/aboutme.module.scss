@@ -137,15 +137,15 @@
         object-fit: cover;
         opacity: 1;
       }
-      &:hover {
-        box-shadow: 0 2rem 3rem -1.5rem var(--navy-shadow);
-        background-color: inherit;
-        img {
-          filter: none;
-          mix-blend-mode: inherit;
-          transition-delay: background-color 0.5s;
-        }
+      // &:hover {
+      box-shadow: 0 2rem 3rem -1.5rem var(--navy-shadow);
+      background-color: inherit;
+      img {
+        filter: none;
+        mix-blend-mode: inherit;
+        transition-delay: background-color 0.5s;
       }
+      // }
     }
     .imageWrapper::before {
       content: '';
