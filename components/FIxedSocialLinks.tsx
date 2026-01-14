@@ -23,7 +23,7 @@ const FixedSocialLinks = () => {
             <FiPhoneCall />
           </a>
         </li>
-        <li>
+        {/* <li>
           <a
             href='https://www.instagram.com/ms.lerie/'
             aria-label='Instagram'
@@ -32,8 +32,8 @@ const FixedSocialLinks = () => {
           >
             <FiInstagram />
           </a>
-        </li>
-        <li>
+        </li> */}
+        {/* <li>
           <a
             href='https://x.com/ValerieOgechi'
             aria-label='Twitter'
@@ -42,7 +42,7 @@ const FixedSocialLinks = () => {
           >
             <FiTwitter />
           </a>
-        </li>
+        </li> */}
         <li>
           <a
             href='https://www.linkedin.com/in/assumpta-obasi'
@@ -56,7 +56,7 @@ const FixedSocialLinks = () => {
         <li>
           <a
             href="https://wa.me/2348038964249?text=Hi Assumpta, I'd love to chat"
-            aria-label='Codepen'
+            aria-label='Whatsapp'
             target='_blank'
             rel='noreferrer'
           >
