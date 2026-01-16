@@ -24,7 +24,7 @@ const Footer = () => {
               <FiPhoneCall />
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               href='https://www.instagram.com/ms.lerie/'
               aria-label='Instagram'
@@ -43,7 +43,7 @@ const Footer = () => {
             >
               <FiTwitter />
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               href='https://www.linkedin.com/in/assumpta-obasi'
